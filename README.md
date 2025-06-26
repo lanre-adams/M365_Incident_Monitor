@@ -112,9 +112,6 @@ src/
 
 ---
 
-## 📄 License
-
-[MIT License](LICENSE)
 
 ---
 
